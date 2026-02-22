@@ -1,7 +1,7 @@
 
-# FinTech ML Labs
+# FRADU DETECTION
 
-**FinTech ML Labs** is a hands-on Python project series designed to help you learn and build real-world machine learning solutions used in financial systems. This includes credit scoring, fraud detection, risk forecasting, and more.
+build real-world machine learning solutions used in financial systems. This includes credit scoring, fraud detection, risk forecasting, and more.
 
 Each project is practical, beginner-friendly, and includes all necessary code, datasets, and documentation.
 
@@ -37,7 +37,7 @@ requirements.txt     # Required Python packages
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/epythonlab2/fintech-ml-labs.git
+git clone https://github.com/QaziSaim/FRADU-DETECTION.git
 cd fintech-ml-labs
 ```
 
@@ -73,20 +73,6 @@ Open `credit_scoring_model.ipynb` to explore the machine learning pipeline.
 ### API & Dashboard (Optional)
 Instructions for setting up the API or dashboard will be provided in later episodes.
 
----
-
-## 🎬 Video Series
-
-📺 Watch the full tutorial series on YouTube:  
-[**Build FinTech ML Projects with Python (Intro Episode)**](https://youtu.be/Qs5Jtaxl7Lc)
-
-[**Build FinTech ML Projects with Python (Credit Scoring Model)**](https://youtu.be/pWOoYpJsaDc)
-
-Each video includes:
-- Python walkthrough
-- Code explanation
-- Dataset links
-- GitHub repository access
 
 ---
 
@@ -95,6 +81,3 @@ Each video includes:
 This project is licensed under the **MIT License**.  
 See the `LICENSE` file for details.
 
----
-
-**Created by Asibeh – AI developer and educator focused on ML in finance.**
